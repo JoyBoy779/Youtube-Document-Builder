@@ -79,8 +79,8 @@ The output document is **LLM-ready**.
 ## Tech Stack
 
 - Python
-- `youtube-transcript-api`
-- `python-docx`
+- youtube-transcript-api
+- python-docx
 
 ---
 
@@ -88,8 +88,8 @@ The output document is **LLM-ready**.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/youtube-transcript-doc-builder.git
-cd youtube-transcript-doc-builder
+git clone https://github.com/github.com/JoyBoy779/Youtube-Document-Builder.git
+cd Youtube-Document-Builder
 ```
 ### 2️⃣ Create a Virtual Environment
 macOS / Linux
@@ -110,7 +110,7 @@ You will be asked to:
 1. Enter a YouTube URL or video ID.  
 2. Choose the subtitle language.  
 
-A .docx transcript file will be generated automatically.
+A `.docx` transcript file will be generated automatically.
 
 ## Output
 - Cleanly formatted Word document.    
