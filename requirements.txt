@@ -1,0 +1,5 @@
+youtube-transcript-api
+# to fetch youtube data
+
+python-docx
+# to convert transcript into docs
